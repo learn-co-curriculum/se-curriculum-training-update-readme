@@ -43,8 +43,8 @@ was a way to automate that?
 
 ## Automating Updates with GitHub Actions
 
-Try this out. In your local repository, make an edit to the README.md file
-(whatever you want to change is fine). This time, commit **and** push:
+Try this out. In your local repository, make a different edit to the README.md
+file. This time, commit **and** push:
 
 ```console
 $ git commit -am 'Fix typo in README'
