@@ -75,8 +75,8 @@ Refresh the page to see your change reflected in Canvas.
 
 ## Conclusion
 
-Thanks to GitHub actions, we're able to focus or curriculum maintenance work on
-simply making update to the GitHub repository and letting automation handle the
+Thanks to GitHub actions, we're able to focus curriculum maintenance work on
+simply making updates to the GitHub repository and letting automation handle the
 rest! As long as a lesson has:
 
 - a well-formed `.canvas` file
